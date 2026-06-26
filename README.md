@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/arjun-121/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1833-maximum-ice-cream-bars](https://github.com/arjun-121/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
 |  |
@@ -39,4 +40,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/arjun-121/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/arjun-121/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/arjun-121/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
