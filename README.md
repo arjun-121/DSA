@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/arjun-121/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0090-subsets-ii](https://github.com/arjun-121/DSA/tree/master/0090-subsets-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/arjun-121/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/arjun-121/DSA/tree/master/0739-daily-temperatures) |
 | [1833-maximum-ice-cream-bars](https://github.com/arjun-121/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/arjun-121/DSA/tree/master/0739-daily-temperatures) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/arjun-121/DSA/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/arjun-121/DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
