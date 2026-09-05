@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/arjun-121/DSA/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/arjun-121/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/arjun-121/DSA/tree/master/0090-subsets-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/arjun-121/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/arjun-121/DSA/tree/master/0049-group-anagrams) |
 | [1833-maximum-ice-cream-bars](https://github.com/arjun-121/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/arjun-121/DSA/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/arjun-121/DSA/tree/master/0133-clone-graph) |
 | [0142-linked-list-cycle-ii](https://github.com/arjun-121/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/arjun-121/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -82,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/arjun-121/DSA/tree/master/0090-subsets-ii) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/arjun-121/DSA/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
