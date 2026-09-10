@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/arjun-121/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/arjun-121/DSA/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/arjun-121/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/arjun-121/DSA/tree/master/0090-subsets-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/arjun-121/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/arjun-121/DSA/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/arjun-121/DSA/tree/master/0133-clone-graph) |
 | [0142-linked-list-cycle-ii](https://github.com/arjun-121/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/arjun-121/DSA/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/arjun-121/DSA/tree/master/0074-search-a-2d-matrix) |
 ## Depth-First Search
 |  |
