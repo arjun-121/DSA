@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/arjun-121/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/arjun-121/DSA/tree/master/0739-daily-temperatures) |
 | [1833-maximum-ice-cream-bars](https://github.com/arjun-121/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2906-construct-product-matrix](https://github.com/arjun-121/DSA/tree/master/2906-construct-product-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/arjun-121/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [2906-construct-product-matrix](https://github.com/arjun-121/DSA/tree/master/2906-construct-product-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/arjun-121/DSA/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/arjun-121/DSA/tree/master/0074-search-a-2d-matrix) |
+| [2906-construct-product-matrix](https://github.com/arjun-121/DSA/tree/master/2906-construct-product-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
