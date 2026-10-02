@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/arjun-121/DSA/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/arjun-121/DSA/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/arjun-121/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/arjun-121/DSA/tree/master/0049-group-anagrams) |
 | [0692-top-k-frequent-words](https://github.com/arjun-121/DSA/tree/master/0692-top-k-frequent-words) |
 ## Union-Find
@@ -145,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/arjun-121/DSA/tree/master/0692-top-k-frequent-words) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/arjun-121/DSA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/arjun-121/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
