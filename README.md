@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/arjun-121/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/arjun-121/DSA/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/arjun-121/DSA/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/arjun-121/DSA/tree/master/0856-score-of-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/arjun-121/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/arjun-121/DSA/tree/master/0049-group-anagrams) |
 | [0692-top-k-frequent-words](https://github.com/arjun-121/DSA/tree/master/0692-top-k-frequent-words) |
+| [0856-score-of-parentheses](https://github.com/arjun-121/DSA/tree/master/0856-score-of-parentheses) |
 ## Union-Find
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/arjun-121/DSA/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/arjun-121/DSA/tree/master/0856-score-of-parentheses) |
 ## Math
 |  |
 | ------- |
