@@ -8,23 +8,13 @@ public:
         int gMin = nums[0];
         int ans = max(abs(gMax), abs(gMin));
         for(int i = 1; i < n ;i++) {
-            if((minVal + nums[i]) < nums[i]) {
-                minVal += nums[i];
-            }
-            else {
-                minVal = nums[i];
-            }
-            gMin = min(gMin, minVal);
+            // to get the min value till the index
+            minVal = min((minVal + nums[i]), nums[i]);
+            // to get the max value till the index
+            maxVal = max((maxVal + nums[i]), nums[i]);
+            // to get the possible values
+            ans = max(ans, max(maxVal, abs(minVal)));
 
-            if((maxVal + nums[i]) > nums[i]) {
-                maxVal += nums[i];
-            }
-            else {
-                maxVal = nums[i];
-            }
-            gMax = max(gMax, maxVal);
-
-            ans = max(ans, max(abs(gMax), abs(gMin)));
         }
 
         return ans;
