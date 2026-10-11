@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/arjun-121/DSA/tree/master/0739-daily-temperatures) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/arjun-121/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1833-maximum-ice-cream-bars](https://github.com/arjun-121/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/arjun-121/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2906-construct-product-matrix](https://github.com/arjun-121/DSA/tree/master/2906-construct-product-matrix) |
 ## Greedy
 |  |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/arjun-121/DSA/tree/master/0146-lru-cache) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/arjun-121/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
