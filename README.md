@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/arjun-121/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/arjun-121/DSA/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/arjun-121/DSA/tree/master/0739-daily-temperatures) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/arjun-121/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1833-maximum-ice-cream-bars](https://github.com/arjun-121/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2906-construct-product-matrix](https://github.com/arjun-121/DSA/tree/master/2906-construct-product-matrix) |
 ## Greedy
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/arjun-121/DSA/tree/master/0022-generate-parentheses) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/arjun-121/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Bracket Sequences
 |  |
 | ------- |
