@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/arjun-121/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/arjun-121/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2906-construct-product-matrix](https://github.com/arjun-121/DSA/tree/master/2906-construct-product-matrix) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/arjun-121/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Greedy
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/arjun-121/DSA/tree/master/0090-subsets-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/arjun-121/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## String
 |  |
 | ------- |
