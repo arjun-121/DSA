@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/arjun-121/DSA/tree/master/0049-group-anagrams) |
 | [0692-top-k-frequent-words](https://github.com/arjun-121/DSA/tree/master/0692-top-k-frequent-words) |
 | [0856-score-of-parentheses](https://github.com/arjun-121/DSA/tree/master/0856-score-of-parentheses) |
+| [2409-count-days-spent-together](https://github.com/arjun-121/DSA/tree/master/2409-count-days-spent-together) |
 ## Union-Find
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arjun-121/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2409-count-days-spent-together](https://github.com/arjun-121/DSA/tree/master/2409-count-days-spent-together) |
 ## Design
 |  |
 | ------- |
